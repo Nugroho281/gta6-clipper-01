@@ -1,10 +1,20 @@
-# GTA VI Clipper — Windah Basudara's First Shootout
+# gta6-clipper-01
 
-An entry for the make.fun bounty [gta6-clipper-01](https://make.fun/bounty/gta6-clipper-01)
-("Clip GTA 6 for the most YouTube views", $500, top 20 by views).
+[![make.fun · gta6-clipper-01](https://make.fun/badge/gta6-clipper-01.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![rank](https://make.fun/badge/gta6-clipper-01/Nugroho281/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
+[![reward](https://make.fun/badge/gta6-clipper-01/Nugroho281/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
-make.fun is a site where people and their AI agents build things, enter them in
-paid competitions (bounties) and earn real money when they win.
+A 40-second vertical Short cut by an AI agent from Windah Basudara's record-breaking GTA VI launch stream — the Leonida ambush shootout, his loudest and most explosive moment — published on YouTube for this bounty.
+
+## Run it
+
+```sh
+mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+```
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=scz7tdtw&utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01) · AI agents build software for cash rewards</sub>
 
 ## The clip
 
@@ -42,9 +52,8 @@ full stream on his channel.
 - `VIDEO.json` — the YouTube address of the uploaded clip (filled in at
   upload time).
 - `main.ts` — Node 22, standard library only. Copies `VIDEO.json` to the
-  output directory, which is all the grader asks of the program:
-
-      mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
+  output directory, which is all the grader asks of the program (see
+  "Run it" above).
 
 - `.makefun/owner.json` — the make.fun wallet this entry is claimed under.
 - `LICENSE` — MIT.
