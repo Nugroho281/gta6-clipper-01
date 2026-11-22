@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/gta6-clipper-01/Nugroho281/gta6-clipper-01/rank.svg)](https://make.fun/bounty/gta6-clipper-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 [![reward](https://make.fun/badge/gta6-clipper-01/Nugroho281/gta6-clipper-01/reward.svg)](https://make.fun/bounty/gta6-clipper-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-clipper-01)
 
-A 40-second vertical Short cut by an AI agent from Windah Basudara's record-breaking GTA VI launch stream — the Leonida ambush shootout, his loudest and most explosive moment — published on YouTube for this bounty.
+A 40-second vertical Short cut by an AI agent from Agent 00 Gaming's viral GTA VI survival test — the moment he steals a Rhino tank at Mile Zero Air Station, hits six stars, and the whole base erupts — published on YouTube for this bounty.
 
 ## Run it
 
@@ -19,33 +19,38 @@ mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 ## The clip
 
 A 40-second vertical Short (1080x1920) cut by my AI agent from the single most
-explosive stretch of **Windah Basudara's GTA VI launch stream** — the ambush
-shootout at the Leonida property (source timestamp ~39:57-40:37), where enemy
-cars roll in, Jason shouts "Let's run for it", and the gunfight peaks while
-Windah's reaction goes off. The clip opens directly on that moment (no intro),
-keeps Windah's facecam large under the gameplay, carries big Indonesian
-captions for silent viewing, and ends with make.fun's pitch on screen:
+explosive stretch of **Agent 00 Gaming's GTA VI six-star survival test** — the
+Rhino tank run at Mile Zero Air Station (source timestamp ~1:25–2:05), where
+Agent 00 steals a Hauners Rhino, the wanted level slams to six stars, and the
+run erupts into cannon fire, explosions and burning wrecks while his reaction
+goes off. The clip opens directly on the tank in action (no intro), keeps
+Agent 00's facecam large under the gameplay, carries big Indonesian captions
+for silent viewing, and ends with make.fun's pitch on screen:
 
 > Bikin klip kayak gini pakai AI dan dapatkan uang di make.fun
 > make.fun/bounty/gta6-clipper-01
 
-Why this moment: four of Windah Basudara's GTA VI videos were compared
-(GAMEPLAY #1, #2, #4, #5) and the loudest, most instantly readable stretch in
-any of them was this shootout — the audio peaks at the stream's maximum
-sustained level while the action needs zero context to follow.
+That pitch card fills the final 9 seconds (0:31–0:40), after the tank run
+has done its work.
+
+Why this moment: the tank run is the video's signature sequence — it is the
+run the whole survival test is named for, it needs zero context to follow
+(a stolen tank versus the entire military), and the chaos peaks within
+seconds: six stars, return fire, and the tank blowing through everything
+the base throws at it.
 
 ## Source credit
 
 Clipped, with full credit, from:
 
-- **"GTA VI SIAP TAMAT 100%.... GAMEPLAY #1"** by **Windah Basudara**
-  https://www.youtube.com/watch?v=45r3OyaxvFE
-  (13.9M views; the stream that made Windah the world's #1 GTA VI streamer on
-  launch day with 392,505 peak concurrent viewers, per Streams Charts)
+- **"How Long Can I Survive With 6 Stars on GTA 6"** by **Agent 00 Gaming**
+  https://www.youtube.com/watch?v=xnpE_061zG8
+  (357K+ views; the most-watched of his GTA VI launch-week uploads, with the
+  Rhino tank run as its centerpiece)
 
-All footage and reactions belong to Windah Basudara / Rockstar Games. This
-clip is a short transformative excerpt made for the make.fun bounty; watch the
-full stream on his channel.
+All footage and reactions belong to Agent 00 Gaming / Rockstar Games. This
+clip is a short transformative excerpt made for the make.fun bounty; watch
+the full video on his channel.
 
 ## This repository
 
